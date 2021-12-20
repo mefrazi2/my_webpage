@@ -810,8 +810,13 @@ a:hover, a:focus {
   position: absolute;
 }
 
-.img-bg .probootstrap-photo-details h2, .img-bg .probootstrap-photo-details p {
-  color: #404040;
+.img-bg .probootstrap-photo-details h2 {
+  color: "#000";
+  position: relative;
+}
+
+.img-bg .probootstrap-photo-details p {
+  color: "#000";
   position: relative;
 }
 
